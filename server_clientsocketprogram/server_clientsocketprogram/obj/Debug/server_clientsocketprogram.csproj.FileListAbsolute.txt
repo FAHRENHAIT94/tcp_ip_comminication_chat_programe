@@ -1,0 +1,16 @@
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\bin\Debug\server_clientsocketprogram.exe.config
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\bin\Debug\server_clientsocketprogram.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\bin\Debug\server_clientsocketprogram.pdb
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.csprojResolveAssemblyReference.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\client.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\MainWindow.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\App.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram_MarkupCompile.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram_MarkupCompile.lref
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\client.baml
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\MainWindow.baml
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.g.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.Properties.Resources.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.csproj.GenerateResource.Cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\server_clientsocketprogram\server_clientsocketprogram\obj\Debug\server_clientsocketprogram.pdb

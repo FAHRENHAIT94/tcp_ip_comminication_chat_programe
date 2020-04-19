@@ -1,0 +1,14 @@
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\bin\Debug\client_serversocketprogram.exe.config
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.csprojResolveAssemblyReference.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\MainWindow.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\App.g.cs
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram_MarkupCompile.cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram_MarkupCompile.lref
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\bin\Debug\client_serversocketprogram.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\bin\Debug\client_serversocketprogram.pdb
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\MainWindow.baml
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.g.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.Properties.Resources.resources
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.csproj.GenerateResource.Cache
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.exe
+c:\users\oguzhank.seskayit\documents\visual studio 2015\Projects\client_serversocketprogram\client_serversocketprogram\obj\Debug\client_serversocketprogram.pdb
